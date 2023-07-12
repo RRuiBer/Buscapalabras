@@ -6,6 +6,7 @@ de cada palabra. Como en el diccionario el valor 'value()' es la inicial
 de la una palabra, si dos palabras diferentes tienen la misma inicial, el 
 valor se va reemplazando por cada palabra nueva con la misma inicial '''
 # Se desea realizar un fork donde se usen tuplas para resolver el problema
+# Tengo listo mi repositorio de GitHub y la rama en la que haré los nuevos cambios.
 
 alternativeText = input("¿Deseas introducir un texto? Presiona Y/N: ")
 text = "Nadie entre aquí que no sepa Geometría"
